@@ -14,6 +14,6 @@ def position_taken?(board, place)
 
   else
     puts "We're sorry, but an error occurred."
-  end 
+  end
 
-end 
+end
